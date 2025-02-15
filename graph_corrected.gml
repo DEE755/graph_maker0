@@ -3,314 +3,332 @@ graph [
   node [
     id 0
     label "0"
-    pos 543.1508620689655
-    pos 963.8663793103449
+    pos 365.4784482758622
+    pos 1287.1314655172414
   ]
   node [
     id 1
     label "1"
-    pos 656.6637931034483
-    pos 751.6465517241379
+    pos 538.2155172413794
+    pos 958.9310344827586
   ]
   node [
     id 2
     label "2"
-    pos 898.4956896551722
-    pos 1146.4741379310344
+    pos 649.260775862069
+    pos 749.1788793103449
   ]
   node [
     id 3
     label "3"
-    pos 1016.9439655172413
-    pos 949.0603448275863
+    pos 696.1465517241378
+    pos 643.0689655172414
   ]
   node [
     id 4
     label "4"
-    pos 1079.061236623068
-    pos 847.5170432025366
+    pos 353.1400862068966
+    pos 433.3168103448277
   ]
   node [
     id 5
     label "5"
-    pos 961.0667855727311
-    pos 1060.8147047166071
+    pos 284.04525862068965
+    pos 524.6206896551726
   ]
   node [
     id 6
     label "6"
-    pos 598.0069361870792
-    pos 854.3244153785174
+    pos 1007.0732758620687
+    pos 944.125
   ]
   node [
     id 7
     label "7"
-    pos 230.40883868410629
-    pos 647.8341260404279
+    pos 1083.571120689655
+    pos 833.0797413793105
   ]
   node [
     id 8
     label "8"
-    pos 1380.8547364248911
-    pos 1285.4579865239793
+    pos 1125.5215517241377
+    pos 736.8405172413793
   ]
   node [
     id 9
     label "9"
-    pos 171.41161315893783
-    pos 761.2903289734443
+    pos 1187.2133620689656
+    pos 620.8599137931035
   ]
   node [
     id 10
     label "10"
-    pos 105.60701545778852
-    pos 877.0156559651207
+    pos 1248.905172413793
+    pos 519.6853448275863
   ]
   node [
     id 11
     label "11"
-    pos 470.9359889021007
-    pos 1074.4294490685688
+    pos 1308.1293103448274
+    pos 425.91379310344837
   ]
   node [
     id 12
     label "12"
-    pos 416.477011494253
-    pos 1190.1547760602457
+    pos 940.446120689655
+    pos 208.75862068965512
   ]
   node [
     id 13
     label "13"
-    pos 840.8032104637336
-    pos 1285.4579865239793
+    pos 876.2866379310343
+    pos 317.33620689655163
   ]
   node [
     id 14
     label "14"
-    pos 359.74891002774484
-    pos 1285.4579865239793
+    pos 824.4655172413792
+    pos 430.8491379310344
   ]
   node [
     id 15
     label "15"
-    pos 1.2273087594135177
-    pos 1083.5059453032104
+    pos 765.2413793103448
+    pos 536.9590517241379
   ]
   node [
     id 16
     label "16"
-    pos 291.67518826793525
-    pos 543.4544193420529
+    pos 999.6702586206894
+    pos 85.375
   ]
   node [
     id 17
     label "17"
-    pos 350.6724137931035
-    pos 445.882084819659
+    pos 1367.3534482758619
+    pos 304.9978448275863
   ]
   node [
     id 18
     label "18"
-    pos 765.9221165279432
-    pos 541.1852952833926
+    pos 1424.1099137931033
+    pos 198.8879310344828
   ]
   node [
     id 19
     label "19"
-    pos 831.7267142290925
-    pos 432.26734046769707
+    pos 1061.3620689655172
+    pos 3.941810344827445
   ]
   node [
     id 20
     label "20"
-    pos 1133.5202140309157
-    pos 747.6755846214821
+    pos 570.2952586206897
+    pos 8.87715517241395
   ]
   node [
     id 21
     label "21"
-    pos 1194.7865636147444
-    pos 638.7576298057866
+    pos 513.5387931034483
+    pos 119.92241379310349
   ]
   node [
     id 22
     label "22"
-    pos 1251.5146650812526
-    pos 534.3779231074118
+    pos 91.56681034482767
+    pos 18.74784482758605
   ]
   node [
     id 23
     label "23"
-    pos 1305.9736424891003
-    pos 427.7290923503765
+    pos 29.875000000000114
+    pos 122.39008620689651
   ]
   node [
     id 24
     label "24"
-    pos 942.9137931034484
-    pos 225.77705112960757
+    pos 397.55818965517244
+    pos 322.2715517241379
   ]
   node [
     id 25
     label "25"
-    pos 890.7239397542608
-    pos 332.42588188664286
+    pos 461.71767241379314
+    pos 213.6939655172414
   ]
   node [
     id 26
     label "26"
-    pos 518.5875941339675
-    pos 123.66646848989285
+    pos 212.48275862068965
+    pos 643.0689655172414
   ]
   node [
     id 27
     label "27"
-    pos 466.3977407847801
-    pos 230.31529924692813
+    pos 160.66163793103453
+    pos 751.6465517241379
   ]
   node [
     id 28
     label "28"
-    pos 400.5931430836308
-    pos 341.502378121284
+    pos 910.8340517241378
+    pos 1181.0215517241381
   ]
   node [
     id 29
     label "29"
-    pos 35.264169639318425
-    pos 135.01208878319449
+    pos 1424.1099137931033
+    pos 1183.4892241379312
   ]
   node [
     id 30
     label "30"
-    pos 98.79964328180745
-    pos 26.094133967499147
+    pos 834.3362068965517
+    pos 1274.7931034482758
   ]
   node [
     id 31
     label "31"
-    pos 1001.9110186286166
-    pos 105.51347602061037
+    pos 466.6530172413794
+    pos 1077.3793103448277
   ]
   node [
     id 32
     label "32"
-    pos 1367.239992072929
-    pos 312.00376535869987
+    pos 414.83189655172407
+    pos 1183.4892241379312
   ]
   node [
     id 33
     label "33"
-    pos 1433.0445897740783
-    pos 198.54756242568374
+    pos 950.3168103448276
+    pos 643.0689655172414
   ]
   node [
     id 34
     label "34"
-    pos 1072.253864447087
-    pos 5.67201743955593
+    pos 982.3965517241378
+    pos 514.75
   ]
   node [
     id 35
     label "35"
-    pos 1485.234443123266
-    pos 94.16785572730873
+    pos 1009.540948275862
+    pos 393.8340517241379
   ]
   node [
     id 36
     label "36"
-    pos 713.7322631787556
-    pos 643.2958779231074
+    pos 1039.153017241379
+    pos 270.4504310344828
   ]
   node [
     id 37
     label "37"
-    pos 1433.0445897740783
-    pos 1176.5400317082835
+    pos 1066.2974137931033
+    pos 152.00215517241372
   ]
   node [
     id 38
     label "38"
-    pos 1489.7726912405865
-    pos 1078.9676971858896
+    pos 955.2521551724136
+    pos 1057.6379310344828
   ]
   node [
     id 39
     label "39"
-    pos 584.392191835117
-    pos 21.55588585017813
+    pos 592.5043103448276
+    pos 847.8857758620691
   ]
   node [
     id 40
-    label "(765.9221165279432,541.1852952833926)"
+    label "40"
+    pos 929.2045019157085
+    pos 765.3558429118773
   ]
   node [
     id 41
-    label "(713.7322631787556,643.2958779231074)"
+    label "41"
+    pos 911.3824233716473
+    pos 888.7394636015324
   ]
   node [
     id 42
-    label "(1079.061236623068,847.5170432025366)"
+    label "42"
+    pos 892.1894157088122
+    pos 1023.0905172413793
   ]
   node [
     id 43
-    label "(1133.5202140309157,747.6755846214821)"
+    label "43"
+    pos 1370.643678160919
+    pos 1298.6472701149423
+  ]
+  node [
+    id 44
+    label "44"
+    pos 1483.0598659003826
+    pos 1073.8148946360152
+  ]
+  node [
+    id 45
+    label "45"
+    pos 102.53424329501922
+    pos 862.6918103448274
+  ]
+  node [
+    id 46
+    label "46"
+    pos 5.198275862069067
+    pos 1088.8951149425286
   ]
   edge [
     source 0
-    target 6
-  ]
-  edge [
-    source 0
-    target 9
+    target 32
   ]
   edge [
     source 1
-    target 36
+    target 39
   ]
   edge [
     source 1
-    target 16
+    target 28
   ]
   edge [
     source 2
-    target 0
+    target 3
   ]
   edge [
     source 2
-    target 13
-  ]
-  edge [
-    source 3
     target 5
   ]
   edge [
     source 3
-    target 1
+    target 15
+  ]
+  edge [
+    source 3
+    target 7
+  ]
+  edge [
+    source 4
+    target 5
   ]
   edge [
     source 4
     target 3
   ]
   edge [
-    source 4
+    source 5
+    target 26
+  ]
+  edge [
+    source 6
     target 38
   ]
   edge [
-    source 5
-    target 8
-  ]
-  edge [
-    source 5
+    source 6
     target 2
-  ]
-  edge [
-    source 6
-    target 5
-  ]
-  edge [
-    source 6
-    target 1
   ]
   edge [
     source 7
@@ -318,99 +336,107 @@ graph [
   ]
   edge [
     source 7
-    target 9
+    target 44
   ]
   edge [
     source 8
-    target 37
+    target 7
   ]
   edge [
     source 9
-    target 10
+    target 8
+  ]
+  edge [
+    source 9
+    target 34
   ]
   edge [
     source 10
-    target 15
-  ]
-  edge [
-    source 10
-    target 11
+    target 9
   ]
   edge [
     source 11
-    target 0
+    target 10
+  ]
+  edge [
+    source 11
+    target 36
   ]
   edge [
     source 12
-    target 11
+    target 16
+  ]
+  edge [
+    source 12
+    target 20
   ]
   edge [
     source 13
-    target 11
+    target 12
+  ]
+  edge [
+    source 13
+    target 10
   ]
   edge [
     source 14
-    target 12
+    target 13
+  ]
+  edge [
+    source 14
+    target 25
   ]
   edge [
     source 15
     target 14
   ]
   edge [
+    source 15
+    target 33
+  ]
+  edge [
     source 16
-    target 7
-  ]
-  edge [
-    source 17
-    target 16
-  ]
-  edge [
-    source 17
-    target 36
-  ]
-  edge [
-    source 18
     target 19
   ]
   edge [
+    source 17
+    target 11
+  ]
+  edge [
     source 18
-    target 28
+    target 17
   ]
   edge [
     source 19
-    target 25
-  ]
-  edge [
-    source 19
-    target 21
-  ]
-  edge [
-    source 20
     target 18
   ]
   edge [
-    source 21
-    target 20
-  ]
-  edge [
-    source 22
+    source 20
     target 21
   ]
   edge [
-    source 23
-    target 22
+    source 21
+    target 25
   ]
   edge [
-    source 24
-    target 31
+    source 21
+    target 13
   ]
   edge [
-    source 24
+    source 22
     target 23
   ]
   edge [
+    source 23
+    target 24
+  ]
+  edge [
     source 24
-    target 39
+    target 4
+  ]
+  edge [
+    source 24
+    target 15
   ]
   edge [
     source 25
@@ -425,40 +451,32 @@ graph [
     target 27
   ]
   edge [
-    source 26
-    target 25
+    source 27
+    target 1
   ]
   edge [
     source 27
-    target 28
-  ]
-  edge [
-    source 27
-    target 19
-  ]
-  edge [
-    source 27
-    target 30
+    target 45
   ]
   edge [
     source 28
-    target 17
+    target 30
   ]
   edge [
     source 29
-    target 28
+    target 6
   ]
   edge [
-    source 30
-    target 29
+    source 29
+    target 43
   ]
   edge [
     source 31
-    target 34
+    target 1
   ]
   edge [
-    source 32
-    target 23
+    source 31
+    target 30
   ]
   edge [
     source 32
@@ -466,27 +484,55 @@ graph [
   ]
   edge [
     source 33
-    target 32
+    target 8
   ]
   edge [
     source 33
-    target 35
+    target 34
   ]
   edge [
     source 34
-    target 33
+    target 14
+  ]
+  edge [
+    source 34
+    target 35
+  ]
+  edge [
+    source 35
+    target 36
   ]
   edge [
     source 36
-    target 4
+    target 37
+  ]
+  edge [
+    source 36
+    target 12
   ]
   edge [
     source 37
-    target 3
+    target 19
   ]
   edge [
     source 37
-    target 38
+    target 17
+  ]
+  edge [
+    source 38
+    target 28
+  ]
+  edge [
+    source 38
+    target 39
+  ]
+  edge [
+    source 38
+    target 42
+  ]
+  edge [
+    source 39
+    target 2
   ]
   edge [
     source 39
@@ -494,10 +540,34 @@ graph [
   ]
   edge [
     source 40
+    target 33
+  ]
+  edge [
+    source 41
+    target 40
+  ]
+  edge [
+    source 42
     target 41
   ]
   edge [
     source 42
-    target 43
+    target 39
+  ]
+  edge [
+    source 43
+    target 38
+  ]
+  edge [
+    source 44
+    target 29
+  ]
+  edge [
+    source 45
+    target 46
+  ]
+  edge [
+    source 46
+    target 0
   ]
 ]
